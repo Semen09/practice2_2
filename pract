@@ -1,0 +1,19 @@
+<DOCTYPE html>
+<html lang="en">
+<h1>Персонльна сторінка Хабера Семена Васильовича</h1>
+<body>
+<p>Мене звати Семен. Я народився в м.Коломия. Тимчасово проживаю м.Івано-Франківськ у зв'язку із навчання в університеті.</p>
+<p><a href="biography.html">
+        Біографія
+    </a></p>
+    <p><a href="novadays.html">
+        Сьогодення
+    </a></p>
+    <p><a href="friends.html">
+        Друзі
+    </a></p>
+    <p><a href="https://semen09.github.io/practice2_2/pract/gallery/gallery.html">
+        Галерея
+    </a></p>
+</body>
+</html>
